@@ -1,1 +1,10 @@
-
+Entramos en settings estando en nuestro repositorio
+Hacemos click en "Add People"
+Por el nombre de ususario de la persona coon quien queremos comaprtir  lo agregamos.
+Y pulsamos "Select a colaborator above"
+A ese usuario le llega un correo y acepta el archivo, yo también recibo su correspondiente solicitud para acepra el que mi colaborador me envía.
+Desde la aplicación de Git en "Current Repository" pulsamos "Add" después "Clone repository" y seleccionamos el repositorio que queremos clonar.
+Entramos en ese repositorio, buscamos el archivo que queremos modificar y pulsamos sobre "Edit this file"
+Lo comentamos y guardamos pulsando sobe "Commit changes"
+volvemos a la app de escritorio y hacemos "Fetch Origin", a continuación "Pull"
+Y ya podemos ver los cambios realizados en el archivo de nuestro colaborador.
